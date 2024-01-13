@@ -32,3 +32,5 @@ https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-f
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet
 
 https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/using-keywords-in-issues-and-pull-requests
+
+https://docs.github.com/en/get-started/using-git/about-git
