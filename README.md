@@ -1,7 +1,5 @@
 
-
-## Q and Q-Star (Q*)
-
+br>
 
 ## Q-Function and Q-Star (Q*)
 
