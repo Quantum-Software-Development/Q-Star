@@ -1,7 +1,7 @@
 
  <br>
 
-##  Q-Star (Q*) and Q-Equations
+## <p align="center">  Q-Star (Q*) and Q-Equations </p>
 
 
 <br>
