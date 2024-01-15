@@ -14,7 +14,7 @@ https://github.com/Quantum-Software-Development/Q-Star/assets/113218619/b00447ff
 
 
 
-## <p align="center">Q-Star in Reinforcement Learning by Miquel Noguer i Alonso
+## <p align="center"> Q-Star (Q*) in Reinforcement Learning by Miquel Noguer i Alonso
 
 
 
