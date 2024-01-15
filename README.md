@@ -16,7 +16,7 @@ https://github.com/Quantum-Software-Development/Q-Star/assets/113218619/b00447ff
 
 Q* is the currently accepted notation for the Optimal Action Value Function in RL. 
 
-Reasoning
+Reasoning:
 
 The biggest gains on reasoning come from strong reward models, as opposed to more SFT data or tools.
 
