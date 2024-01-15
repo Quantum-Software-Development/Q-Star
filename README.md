@@ -1,7 +1,9 @@
 
  <br>
 
-## <p align="center"> 𑁍 Q-Star (Q*) and Black Holes </p>
+## <p align="center"> 𑁍 Q-Star (Q*) 
+
+<!--  and Black Holes </p> -->
 
 
 <br>
