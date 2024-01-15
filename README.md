@@ -41,5 +41,5 @@ https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-rep
 
 #
 
-#### <p align="center"> [Copyright 2024 Fabiana Campanari. Code released under the MIT license.](https://github.com/FabianaCampanari/FabianaCampanari/blob/6c025e5f18f74c0c55427915fc612d1dacfa4564/LICENSE)
+#### <p align="center"> [Copyright 2024 Quantum-Software-Development. Code released under the MIT license.](https://github.com/FabianaCampanari/FabianaCampanari/blob/6c025e5f18f74c0c55427915fc612d1dacfa4564/LICENSE)
 
