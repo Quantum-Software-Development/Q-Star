@@ -4,9 +4,6 @@
 # <p align="center"> ✯ Q-Star (Q*) 
 <!--  and Black Holes </p> -->
 
- <br>
-
-https://github.com/Quantum-Software-Development/Q-Star/assets/113218619/b00447ff-4ba9-46d2-854d-0fb2134932a8
 
  <br>
 
