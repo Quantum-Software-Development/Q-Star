@@ -10,11 +10,12 @@ https://github.com/Quantum-Software-Development/Q-Star/assets/113218619/b00447ff
 
  <br>
 
-
-
-
-
 ## <p align="center"> Q-Star (Q*) in Reinforcement Learning by Miquel Noguer i Alonso
+
+ <br>
+
+Q* is the currently accepted notation for the Optimal Action Value Function in RL. 
+
 
 
 
