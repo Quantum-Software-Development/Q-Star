@@ -38,3 +38,8 @@ https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-f
 https://docs.github.com/en/get-started/using-git/about-git
 
 https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository -->
+
+#
+
+#### <p align="center"> [Copyright 2024 Fabiana Campanari. Code released under the MIT license.](https://github.com/FabianaCampanari/FabianaCampanari/blob/6c025e5f18f74c0c55427915fc612d1dacfa4564/LICENSE)
+
