@@ -59,7 +59,7 @@ https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-rep
   <p> <em>made with vibe, frequency & joy</em> </p>
 </div>
 
-
+<!-- end footer -->
 
 #
 
