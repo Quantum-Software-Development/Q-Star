@@ -4,6 +4,9 @@
 # <span style="background-color:black; padding: 10px; width:100%;"> ![**Q***](https://via.placeholder.com/600x200/000000/FFFFFF?text=%20%20%20%20%20%20%20**Q*%2A**%20%20%20%20%20%20%20) </span>
 
 
+# <span style="background-color:black; padding: 10px; display: block; width: 100%;"> ![**Q***](https://via.placeholder.com/600x200/000000/FFFFFF?text=%20%20%20%20%20%20%20**Q*%2A**%20%20%20%20%20%20%20) </span>
+
+
 # Q-Star in Reinforcement Learning
 *Author: Miquel Noguer i Alonso*  
 *Date: November 23, 2023*
