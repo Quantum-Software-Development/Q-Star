@@ -53,9 +53,9 @@ https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-rep
 
 ---
 
-<div align="center">
-    <p> < made with vibe, frequency & joy />  p>
-</div>
+ <div align="center">
+  <p> < made with vibe, frequency & joy /> </p>
+</div> 
 
 
 
