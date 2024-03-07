@@ -1,5 +1,6 @@
 
- <br>
+# ![Q*](https://via.placeholder.com/600x200/000000/FFFFFF?text=Q%2A)
+
 
 # Q-Star in Reinforcement Learning
 *Author: Miquel Noguer i Alonso*  
