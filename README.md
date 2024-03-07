@@ -1,13 +1,13 @@
 
  <br>
 
-# <p align="center"> ✯ Q-Star (Q*) 
+## <p align="center"> ✯ Q-Star (Q*) 
 <!--  and Black Holes </p> -->
 
 
  <br>
 
-## <p align="center"> Q-Star (Q*) in Reinforcement Learning by Miquel Noguer i Alonso
+### <p align="center"> Q-Star (Q*) in Reinforcement Learning by Miquel Noguer i Alonso
 
  <br>
 
