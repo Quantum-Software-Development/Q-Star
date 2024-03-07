@@ -18,7 +18,7 @@
 
 
 ## Abstract
-This document provides a comprehensive overview of the Q-Star (Q*) concept in reinforcement learning, focusing on its mathematical formulation, significance, and methods used for approximation in learning algorithms.
+Access this document for a comprehensive overview of the Q-Star (Q*) concept in reinforcement learning, which delves into its mathematical formulation, significance, and the methods employed for approximation in learning algorithms.
 
 
 
