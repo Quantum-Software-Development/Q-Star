@@ -7,6 +7,14 @@
 </p>
 
 
+<div style="text-align:center;">
+    <span style="display: block; background-color: black; padding: 20px;">
+        <img src="https://via.placeholder.com/1200x200/000000/FFFFFF?text=%20%20%20%20%20%20%20%20%20%20%20%20**Q*%2A**" alt="Q*" style="font-size: 50px; font-weight: bold;">
+    </span>
+</div>
+
+
+
 
 
 
