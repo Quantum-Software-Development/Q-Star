@@ -8,7 +8,6 @@
     </span>
 </div>
 
-### <p align="center">   [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
 
 <!-- end header -->
@@ -60,6 +59,9 @@ https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-rep
 
 <div align="center">
   <p> <em>made with vibe, frequency & joy</em> </p>
+
+### <p align="center">   [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
+
 </div>
 
 <!-- end footer -->
