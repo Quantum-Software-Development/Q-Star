@@ -1,28 +1,9 @@
 
  <br>
 
-## <p align="center"> ✯ Q-Star (Q*) 
-<!--  and Black Holes </p> -->
-
-
- <br>
-
-### <p align="center"> Q-Star (Q*) in Reinforcement Learning by Miquel Noguer i Alonso
-
- <br>
-
-Q* is the currently accepted notation for the Optimal Action Value Function in RL. 
-
-Reasoning:
-
-The biggest gains on reasoning come from strong reward models, as opposed to more SFT data or tools.
-
-
-
-
-
-
-
+# Q-Star in Reinforcement Learning
+*Author: Miquel Noguer i Alonso*  
+*Date: November 23, 2023*
 
 
 
