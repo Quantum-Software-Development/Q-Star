@@ -11,11 +11,20 @@
 
 
 
-
-
 # Q-Star in Reinforcement Learning
 *Author: Miquel Noguer i Alonso*  
 *Date: November 23, 2023*
+
+
+
+## Abstract
+This document provides a comprehensive overview of the Q-Star (Q*) concept in reinforcement learning, focusing on its mathematical formulation, significance, and methods used for approximation in learning algorithms.
+
+
+
+
+
+
 
 
 
