@@ -11,7 +11,7 @@
 
 
 
-# Q-Star in Reinforcement Learning
+# Q-Star (Q*) in Reinforcement Learning
 *Author: Miquel Noguer i Alonso*  
 *Date: November 23, 2023*
 
