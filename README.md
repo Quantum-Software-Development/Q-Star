@@ -1,7 +1,7 @@
 
 
 
-<span style="display: block; background-color: black; padding: 20px;"> ![Q*](https://via.placeholder.com/1200x200/000000/FFFFFF?text=Q%2A) </span>
+<span style="display: block; background-color: black; padding: 20px;"> !**[Q*]**(https://via.placeholder.com/1200x200/000000/FFFFFF?text=Q%2A) </span>
 
  
 
