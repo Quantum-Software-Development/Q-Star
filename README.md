@@ -50,6 +50,16 @@ https://docs.github.com/en/get-started/using-git/about-git
 
 https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository -->
 
+
+---
+
+<div align="center">
+    <p> < made with vibe, frequency & joy />  p>
+</div>
+
+
+
+
 #
 
 ######  <p align="center"> [Copyright 2024 Quantum-Software-Development. Code released under the MIT license.](https://github.com/Quantum-Software-Development/Q-Star/blob/f5115a1a073bdb3fa68c51bb3b3414c8e0b0270e/LICENSE)
