@@ -1,5 +1,4 @@
 
-
 <!-- header -->
 
 <div style="text-align:center;">
@@ -8,18 +7,15 @@
     </span>
 </div>
 
-
-
 <!-- end header -->
 
 
 
 
 
-# Q-Star in Reinforcement Learnin
+# Q-Star in Reinforcement Learning
 *Author: Miquel Noguer i Alonso*  
 *Date: November 23, 2023*
-
 
 
 
