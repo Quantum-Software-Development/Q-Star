@@ -51,11 +51,9 @@ https://docs.github.com/en/get-started/using-git/about-git
 https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository -->
 
 
-<!-- footer -->
 
- <div align="center">
-  <p> < made with vibe, frequency & joy /> </p>
-</div> 
+
+<!-- footer -->
 
 <div align="center">
   <p> <em>made with vibe, frequency & joy</em> </p>
