@@ -7,7 +7,7 @@
 
  <br>
 
-## Q-Star (Q*) in Reinforcement Learning by Miquel Noguer i Alonso
+## <p align="center" Q-Star (Q*) in Reinforcement Learning by Miquel Noguer i Alonso
 
  <br>
 
