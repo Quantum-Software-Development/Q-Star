@@ -55,10 +55,10 @@ https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-rep
 
 #
 
-<!-- footer -->
+<!-- footer 
 
 <div align="center">
-  <p> <em>made with vibe, frequency & joy</em> </p>
+  <p> <em>made with vibe, frequency & joy</em> </p> -->
 
 ### <p align="center">   [![Sponsor Quantum Software Development](https://img.shields.io/badge/Sponsor-Quantum%20Software%20Development-brightgreen?logo=GitHub)](https://github.com/sponsors/Quantum-Software-Development)
 
