@@ -18,12 +18,12 @@
 
 
 ## Abstract
-[Access this document]() for a comprehensive overview of the Q-Star (Q*) concept in reinforcement learning, which delves into its mathematical formulation, significance, and the methods employed for approximation in learning algorithms.
+[Access this document](https://github.com/Quantum-Software-Development/Q-Star/blob/1e3dfd901f7ae1e9830f96f7e8c830cecbd5e804/Bellman%20Q*/Q*%20Bellman%20Doc.pdf) for a comprehensive overview of the Q-Star (Q*) concept in reinforcement learning, which delves into its mathematical formulation, significance, and the methods employed for approximation in learning algorithms.
 
 
-![Q* Bellman Equality](https://github.com/Quantum-Software-Development/Q-Star/assets/113218619/91c383e8-5c31-4695-8236-b56e58b2a59a)
 
 
+https://github.com/Quantum-Software-Development/Q-Star/blob/1e3dfd901f7ae1e9830f96f7e8c830cecbd5e804/Bellman%20Q*/Q*%20Bellman%20Doc.pdf
 
 
 
