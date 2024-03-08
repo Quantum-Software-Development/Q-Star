@@ -12,7 +12,7 @@
 
 
 # Q-Star (Q*) in Reinforcement Learning
-*Author: Miquel Noguer i Alonso*  
+*Author: Miquel Noguer i Alonso - Founder at AI Finance Institute*  
 *Date: November 23, 2023*
 
 
