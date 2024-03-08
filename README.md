@@ -23,7 +23,6 @@
 
 
 
-https://github.com/Quantum-Software-Development/Q-Star/blob/1e3dfd901f7ae1e9830f96f7e8c830cecbd5e804/Bellman%20Q*/Q*%20Bellman%20Doc.pdf
 
 
 
