@@ -29,6 +29,9 @@ Q* [Bellman Equality]()
 
 #
 
+
+
+
 ![Hodge-RiemannN Cohomology Classes](https://github.com/Quantum-Software-Development/Q-Star/assets/113218619/2aacaba9-dcc7-4a60-be18-9d2e4885b7a3)
 
 
