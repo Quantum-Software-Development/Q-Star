@@ -22,6 +22,9 @@
 
 
 
+![Q* Bellman Equality](https://github.com/Quantum-Software-Development/Q-Star/assets/113218619/91c383e8-5c31-4695-8236-b56e58b2a59a)
+
+
 
 
 
