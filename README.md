@@ -15,6 +15,17 @@
 *Author: Miquel Noguer i Alonso - Founder at AI Finance Institute*  
 *Date: November 23, 2023*
 
+#
+
+# Q* is the currently accepted notation for the Optimal Action Value Function in RL. 
+
+
+
+
+
+
+
+
 
 
 ## Abstract
@@ -28,6 +39,12 @@ Q* [Bellman Equality]()
 
 
 #
+
+
+In the literature we see two distinct methods
+for training reward models: outcome supervision & process supervision.
+
+
 
 [Hodge-RiemannN Cohomology Classes]()
 
