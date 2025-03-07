@@ -21,6 +21,20 @@
 
 Q* RL algorithm might be using AI generated data (Logic + Maths) and teaches the LLM to solve multi-step logic problems. Q* might be applied to GPT-5, giving it excellent reasoning and retrieval skills.
 
+#
+
+## Reasoning
+
+The biggest gains on reasoning come from strong reward models, as opposed to more SFT data or tools.
+
+Much of (unpublished) research is now focused on finding a general planning algorithm for LLMs, i.e. some equivalent of the dlPFC. So PLANNING is the name of the game.
+
+#
+
+Maths
+
+
+
 
 
 
