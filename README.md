@@ -12,12 +12,13 @@
 
 
 # Q-Star (Q*) in Reinforcement Learning
+
 *Author: Miquel Noguer i Alonso - Founder at AI Finance Institute*  
 *Date: November 23, 2023*
 
 #
 
-## Q* is the currently accepted notation for the Optimal Action Value Function in RL. 
+## [Q*]() is the currently accepted notation for the Optimal Action Value Function in RL. 
 
 Q* RL algorithm might be using AI generated data (Logic + Maths) and teaches the LLM to solve multi-step logic problems. Q* might be applied to GPT-5, giving it excellent reasoning and retrieval skills.
 
