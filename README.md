@@ -1,6 +1,7 @@
 
 <!-- header -->
 
+<!--
 <div style="text-align:center;">
     <span style="display: block; background-color: black; padding: 20px;">
         <img src="https://via.placeholder.com/1200x200/000000/FFFFFF?text=%20%20%20%20%20%20%20%20%20%20%20%20Q%2A" alt="Q*" style="font-size: 50px; font-weight: bold;">
@@ -11,7 +12,7 @@
 
 
 
-# Q-Star (Q*) in Reinforcement Learning
+# Q-Star [Q*()] in Reinforcement Learning
 
 *Author: Miquel Noguer i Alonso - Founder at AI Finance Institute*  
 *Date: November 23, 2023*
