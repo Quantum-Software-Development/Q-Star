@@ -52,8 +52,8 @@ Q* [Bellman Equality]()
 
 #
 
-
 In the literature we see two distinct methods
+
 for training reward models: outcome supervision & process supervision.
 
 
