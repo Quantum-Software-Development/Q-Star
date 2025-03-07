@@ -31,19 +31,14 @@ Much of (unpublished) research is now focused on finding a general planning algo
 
 #
 
-Maths
+## Maths
+
+In the literature, we have seen different approaches to teaching math to AI models like Transformers + Beam Search or Large language models, which are capable of solving tasks that require complex multistep reasoning by generating solutions in a step-by-step chain-of-thought format. 
+
+One effective method in the second involves training reward models to discriminate between desirable and undesirable outputs. 
 
 
-
-
-
-
-
-
-
-
-
-
+#
 
 ## Abstract
 [Access this document](https://github.com/Quantum-Software-Development/Q-Star/blob/1e3dfd901f7ae1e9830f96f7e8c830cecbd5e804/Bellman%20Q*/Q*%20Bellman%20Doc.pdf) for a comprehensive overview of the Q-Star (Q*) concept in reinforcement learning, which delves into its mathematical formulation, significance, and the methods employed for approximation in learning algorithms.
